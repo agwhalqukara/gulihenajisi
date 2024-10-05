@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://gulihenajisi.pages.dev/sitemap.xml
